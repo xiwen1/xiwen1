@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/e1270ac3-4ce9-41d5-8064-b138532da0b9.svg)](https://wakatime.com/@e1270ac3-4ce9-41d5-8064-b138532da0b9)
 - Hi, I’m @xiwen1;
-- I’m currently learning **C/C++**, **Python**, **Davascript**, **Vue.js** and **Go**;
+- I’m currently learning **C/C++**, **Python**, **Javascript**, **Vue.js** and **Go**;
 - I have experience of using **Django** and **Go** to develope web and app;
 - How to reach me :1597083201@qq.com;
 - welcome any contact!
