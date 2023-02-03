@@ -1,5 +1,5 @@
-[![wakatime](https://wakatime.com/badge/user/e1270ac3-4ce9-41d5-8064-b138532da0b9.svg)](https://wakatime.com/@e1270ac3-4ce9-41d5-8064-b138532da0b9)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiwen1)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/e1270ac3-4ce9-41d5-8064-b138532da0b9.svg)](https://wakatime.com/@e1270ac3-4ce9-41d5-8064-b138532da0b9)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiwen1)](https://github.com/anuraghazra/github-readme-stats)<br>
 - Hi, I’m @xiwen1;
 - I’m currently learning **C/C++**, **Python**, **Javascript**, **Vue.js** and **Go**;
 - I have experience of using **Django** and **Go** to develope web and app;
