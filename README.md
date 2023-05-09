@@ -9,8 +9,9 @@
 ![Skills](https://skillicons.dev/icons?i=bash,bootstrap,cpp,cmake,css,django,docker,go,html,java,js,kubernetes,linux,mysql,nginx,powershell,postgres,py,pytorch,qt,redis,regex,rust,spring,ts,vite,vue,wasm,sqlite,selenium,fastapi)  
 
 - Hi, I’m @xiwen1;
-- I’m currently learning **C/C++**, **Python**, **Javascript**, **Vue.js** and **Go**;
-- I have experience of using **Django** and **Go** to develope web and app;
+- I am an undergrad of WHU;
+- I am exploring **rust** and **go**, I can use C/C++, python, go, and javascript;
+- I have experience of using **Django** and **Go** to develop web application;
 - How to reach me :1597083201@qq.com;
 - welcome any contact!
 
