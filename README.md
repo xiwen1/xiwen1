@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiwen1)](https://github.com/anuraghazra/github-readme-stats)<br>
 <strong>What I am using:  </strong>
 
-![tools](https://skillicons.dev/icons?i=cloudflare,discord,django,git,github,gitlab,grafana,idea,md,neovim,stackoverflow,visualstudio,vscode,postman)  
+![tools](https://skillicons.dev/icons?i=cloudflare,discord,django,git,goland,pycharm,vim,sublime,clion,github,gitlab,grafana,idea,md,neovim,stackoverflow,visualstudio,vscode,postman)  
 
 <strong>My Skills:  </strong>
 
