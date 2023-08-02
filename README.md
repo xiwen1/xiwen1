@@ -10,7 +10,7 @@
 
 - Hi, I’m @xiwen1;
 - I am an undergrad of WHU;
-- I am familiar with **go**, **python**, **typescript**, **javascript**, **rust"", **C/C++**, and related libraries.
+- I am familiar with **go**, **python**, **typescript**, **javascript**, **rust**, **C/C++**, and related libraries.
 - How to reach me :1597083201@qq.com;
 - welcome any contact!
 
