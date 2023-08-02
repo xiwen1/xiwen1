@@ -10,8 +10,7 @@
 
 - Hi, I’m @xiwen1;
 - I am an undergrad of WHU;
-- I am exploring **rust** and **go**, I can use C/C++, python, go, and javascript;
-- I have experience of using **Django** and **Go** to develop web application;
+- I am familiar with **go**, **python**, **typescript**, **javascript**, **rust"", **C/C++**, and related libraries.
 - How to reach me :1597083201@qq.com;
 - welcome any contact!
 
