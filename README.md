@@ -12,8 +12,8 @@
 - I am an undergrad of WHU;
 - I am familiar with **go**, **python**, **typescript**, **javascript**, **rust**, **C/C++** and **C#**.
 - How to reach me : 1597083201@qq.com  2022302111077@whu.edu.cn;
-- My scholar profile: ![xiwen1.github.io](https://xiwen1.github.io)
-- My blog: ![xiwenym.cn](https://www.xiwenym.cn)
+- My scholar profile: [xiwen1.github.io](https://xiwen1.github.io)
+- My blog: [xiwenym.cn](https://www.xiwenym.cn)
 - welcome any contact!
 
 <!---
