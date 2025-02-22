@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/e1270ac3-4ce9-41d5-8064-b138532da0b9.svg)](https://wakatime.com/@e1270ac3-4ce9-41d5-8064-b138532da0b9)<br>
-<p align="center">
+<p align="left">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=xiwen1"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiwen1&layout=compact&title_color=81A1C1&bg_color=ffffff" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiwen1&layout=compact&title_color=81A1C1&bg_color=ffffff" />
 </p>
 
 <strong>What I am using:  </strong>
