@@ -1,5 +1,9 @@
 [![wakatime](https://wakatime.com/badge/user/e1270ac3-4ce9-41d5-8064-b138532da0b9.svg)](https://wakatime.com/@e1270ac3-4ce9-41d5-8064-b138532da0b9)<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiwen1)](https://github.com/anuraghazra/github-readme-stats)<br>
+<p align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiwen1)](https://github.com/anuraghazra/github-readme-stats) 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyu-tian&layout=compact&title_color=81A1C1&bg_color=ffffff" />
+</p>
+
 <strong>What I am using:  </strong>
 
 ![tools](https://skillicons.dev/icons?i=cloudflare,discord,django,git,vim,github,gitlab,grafana,idea,md,neovim,stackoverflow,visualstudio,vscode,postman)  
