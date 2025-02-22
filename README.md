@@ -10,7 +10,7 @@
 
 <strong>My Skills:  </strong>
 
-![Skills](https://skillicons.dev/icons?i=bash,bootstrap,cpp,cmake,css,django,docker,go,html,java,js,kubernetes,linux,mysql,nginx,powershell,postgres,py,pytorch,qt,redis,regex,rust,spring,ts,vite,vue,wasm,sqlite,selenium,fastapi)  
+![Skills](https://skillicons.dev/icons?i=bash,bootstrap,cpp,cmake,css,django,docker,go,html,java,js,kubernetes,linux,mysql,nginx,powershell,postgres,py,pytorch,qt,redis,regex,rust,spring,ts,vite,vue,wasm,selenium,fastapi)  
 
 - I am an undergrad of Wuhan University.
 - Develop using **go**, **python**, **TS/JS** and **rust**.
