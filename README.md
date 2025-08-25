@@ -14,8 +14,8 @@
 
 - I am an undergrad of Wuhan University.
 - Develop using **go**, **python**, **TS/JS** and **rust**.
-- Also research on **Trustworthy AI**, **Genterative Model** and **LVLM**.
-- How to reach me : xiwen.kwzhang@gmail.com  2022302111077@whu.edu.cn.
+- Also research on **Efficient AI**, **Genterative Model** and **LVLM**.
+- How to reach me : xiwen.kwzhang@gmail.com  kwzhang@whu.edu.cn.
 - My scholar profile: [xiwen1.github.io](https://xiwen1.github.io)
 - Welcome any contact!
 
